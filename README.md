@@ -1,1 +1,3 @@
-# Banned Imports Detekt plugins
+# Detekt Rules
+
+A bundle of Detekt rules

@@ -29,3 +29,5 @@ include(
     ":a--catalogs:libs",
     ":a--catalogs:plugins",
 )
+
+include("banned-import")

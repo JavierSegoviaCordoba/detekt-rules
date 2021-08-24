@@ -57,6 +57,7 @@ jobs:
         run: ./gradlew publishToSonatype closeSonatypeStagingRepository
 
       - name: Deploy release docs to Github Pages
+        if: ${{ !contains(github.ref, 'alpha') && !contains(github.ref, 'beta') && !contains(github.ref, 'rc') }}
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: 'gh-pages'

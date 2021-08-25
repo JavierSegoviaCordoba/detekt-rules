@@ -4,7 +4,7 @@
 
 // [versions]
 val detekt = "1.18.0"
-val kotest = "4.6.1"
+val kotest = "4.6.2"
 
 // [libraries]
 val gitlab_arturboschDetekt_detektApi = "io.gitlab.arturbosch.detekt:detekt-api:$detekt"

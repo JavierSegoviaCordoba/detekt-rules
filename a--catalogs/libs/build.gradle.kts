@@ -3,7 +3,7 @@
 // Catalog name: libs
 
 // [versions]
-val detekt = "1.18.0"
+val detekt = "1.18.1"
 val kotest = "4.6.2"
 
 // [libraries]

@@ -1,5 +1,5 @@
 plugins {
-    `kotlin-jvm`
+    `javiersc-kotlin-jvm`
     `javiersc-publish-kotlin-jvm`
 }
 

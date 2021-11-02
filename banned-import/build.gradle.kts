@@ -1,6 +1,7 @@
 plugins {
-    `javiersc-kotlin-jvm`
-    `javiersc-publish-kotlin-jvm`
+    `kotlin-jvm`
+    `javiersc-kotlin-library`
+    `javiersc-publish`
 }
 
 kotlin {

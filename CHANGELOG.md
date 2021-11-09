@@ -13,6 +13,7 @@
 ### Fixed
 
 ### Updated
+- `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.8.0`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.6`
 - `com.javiersc.gradle-plugins:versioning -> 0.1.0-alpha.71`
 - `com.javiersc.gradle-plugins:readme-badges -> 0.1.0-alpha.71`

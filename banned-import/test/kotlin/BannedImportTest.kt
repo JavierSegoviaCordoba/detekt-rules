@@ -3,7 +3,7 @@ package com.javiersc.detektRules.bannedImport
 import io.gitlab.arturbosch.detekt.test.TestConfig
 import io.gitlab.arturbosch.detekt.test.compileAndLint
 import io.kotest.matchers.collections.shouldHaveSize
-import org.junit.Test
+import kotlin.test.Test
 
 class BannedImportTest {
 

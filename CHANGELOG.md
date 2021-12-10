@@ -14,7 +14,7 @@
 
 ### Updated
 
-- `io.kotest:kotest-assertions-core -> 5.0.1`
+- `io.kotest:kotest-assertions-core -> 5.0.2`
 - `io.gitlab.arturbosch.detekt:detekt-test -> 1.19.0`
 - `io.gitlab.arturbosch.detekt:detekt-api -> 1.19.0`
 - `gradle -> 7.3.1`

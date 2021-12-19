@@ -14,10 +14,10 @@
 
 ### Updated
 
+- `io.kotest:kotest-assertions-core -> 5.0.3`
 - `gradle -> 7.3.2`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.10`
 - `com.javiersc.gradle-plugins:all-plugins -> 0.1.0-rc.24`
-- `io.kotest:kotest-assertions-core -> 5.0.2`
 - `io.gitlab.arturbosch.detekt:detekt-test -> 1.19.0`
 - `io.gitlab.arturbosch.detekt:detekt-api -> 1.19.0`
 

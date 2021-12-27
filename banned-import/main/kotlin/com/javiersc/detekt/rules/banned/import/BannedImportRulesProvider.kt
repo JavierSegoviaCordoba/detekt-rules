@@ -1,4 +1,4 @@
-package com.javiersc.detektRules.bannedImport
+package com.javiersc.detekt.rules.banned.import
 
 import io.gitlab.arturbosch.detekt.api.Config
 import io.gitlab.arturbosch.detekt.api.RuleSet

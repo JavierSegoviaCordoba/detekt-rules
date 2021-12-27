@@ -1,1 +1,1 @@
-com.javiersc.detektRules.bannedImport.BannedImportRulesProvider
+com.javiersc.detekt.rules.banned.import.BannedImportRulesProvider

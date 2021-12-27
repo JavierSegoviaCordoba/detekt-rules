@@ -1,4 +1,4 @@
-public final class com/javiersc/detektRules/bannedImport/BannedImport : io/gitlab/arturbosch/detekt/api/Rule {
+public final class com/javiersc/detekt/rules/banned/import/BannedImport : io/gitlab/arturbosch/detekt/api/Rule {
 	public fun <init> ()V
 	public fun <init> (Lio/gitlab/arturbosch/detekt/api/Config;)V
 	public synthetic fun <init> (Lio/gitlab/arturbosch/detekt/api/Config;ILkotlin/jvm/internal/DefaultConstructorMarker;)V
@@ -6,7 +6,7 @@ public final class com/javiersc/detektRules/bannedImport/BannedImport : io/gitla
 	public fun visitImportDirective (Lorg/jetbrains/kotlin/psi/KtImportDirective;)V
 }
 
-public final class com/javiersc/detektRules/bannedImport/BannedImportRulesProvider : io/gitlab/arturbosch/detekt/api/RuleSetProvider {
+public final class com/javiersc/detekt/rules/banned/import/BannedImportRulesProvider : io/gitlab/arturbosch/detekt/api/RuleSetProvider {
 	public fun <init> ()V
 	public fun getRuleSetId ()Ljava/lang/String;
 	public fun instance (Lio/gitlab/arturbosch/detekt/api/Config;)Lio/gitlab/arturbosch/detekt/api/RuleSet;

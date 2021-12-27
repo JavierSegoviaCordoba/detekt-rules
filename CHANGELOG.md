@@ -6,13 +6,19 @@
 
 ### Changed
 
-- package to `com.javiersc.detekt.rules.banned.import`
-
 ### Deprecated
 
 ### Removed
 
 ### Fixed
+
+### Updated
+
+## [0.1.0-alpha.2] - 2021-12-27
+
+### Changed
+
+- package to `com.javiersc.detekt.rules.banned.import`
 
 ### Updated
 

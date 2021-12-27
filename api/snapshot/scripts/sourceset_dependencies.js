@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":banned-import:dokkaHtmlPartial/main":[]}'

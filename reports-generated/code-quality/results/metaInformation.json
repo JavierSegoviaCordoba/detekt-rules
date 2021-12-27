@@ -1,0 +1,15 @@
+{
+  "total": 4,
+  "tools inspection": {
+    "Code Inspection": 4
+  },
+  "attributes": {
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/JavierSegoviaCordoba/detekt-rules",
+        "revisionId": "6a0ba557228214e77f4880c14c7acce966a754f2",
+        "branch": "main"
+      }
+    }
+  }
+}

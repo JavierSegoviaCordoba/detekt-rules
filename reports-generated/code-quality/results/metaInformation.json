@@ -1,13 +1,13 @@
 {
-  "total": 4,
+  "total": 2,
   "tools inspection": {
-    "Code Inspection": 4
+    "Code Inspection": 2
   },
   "attributes": {
     "vcs": {
       "sarifIdea": {
         "repositoryUri": "https://github.com/JavierSegoviaCordoba/detekt-rules",
-        "revisionId": "4e95b58145ecf1297e5d428a2a26209fb97ea99c",
+        "revisionId": "94f8a11767d2addcea60d14c34458b7a33846386",
         "branch": "main"
       }
     },

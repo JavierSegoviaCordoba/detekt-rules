@@ -285,13 +285,13 @@
           "path": "file://$PROJECT_DIR$/banned-import/main",
           "sourceFolders": [
             {
-              "path": "file://$PROJECT_DIR$/banned-import/main/kotlin",
-              "type": "Source",
+              "path": "file://$PROJECT_DIR$/banned-import/main/resources",
+              "type": "Resource",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/banned-import/main/resources",
-              "type": "Resource",
+              "path": "file://$PROJECT_DIR$/banned-import/main/kotlin",
+              "type": "Source",
               "packagePrefix": ""
             }
           ]

@@ -105,7 +105,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.kotest:kotest-assertions-core-jvm:5.1.0",
+          "name": "Gradle: io.kotest:kotest-assertions-core-jvm:5.2.2",
           "type": "Library"
         },
         {
@@ -141,7 +141,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.1.0",
+          "name": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.2.2",
           "type": "Library"
         },
         {
@@ -157,7 +157,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.kotest:kotest-assertions-api-jvm:5.1.0",
+          "name": "Gradle: io.kotest:kotest-assertions-api-jvm:5.2.2",
           "type": "Library"
         },
         {
@@ -249,7 +249,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.kotest:kotest-common-jvm:5.1.0",
+          "name": "Gradle: io.kotest:kotest-common-jvm:5.2.2",
           "type": "Library"
         },
         {
@@ -285,13 +285,13 @@
           "path": "file://$PROJECT_DIR$/banned-import/main",
           "sourceFolders": [
             {
-              "path": "file://$PROJECT_DIR$/banned-import/main/resources",
-              "type": "Resource",
+              "path": "file://$PROJECT_DIR$/banned-import/main/kotlin",
+              "type": "Source",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/banned-import/main/kotlin",
-              "type": "Source",
+              "path": "file://$PROJECT_DIR$/banned-import/main/resources",
+              "type": "Resource",
               "packagePrefix": ""
             }
           ]

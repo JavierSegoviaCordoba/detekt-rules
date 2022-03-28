@@ -865,9 +865,9 @@
       ]
     },
     {
-      "name": "Gradle: io.kotest:kotest-assertions-core-jvm:5.1.0",
+      "name": "Gradle: io.kotest:kotest-assertions-core-jvm:5.2.2",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.kotest/kotest-assertions-core-jvm/5.1.0/6437ec2783a6e1b0f46e9bfa94cda5979ab1d748/kotest-assertions-core-jvm-5.1.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.kotest/kotest-assertions-core-jvm/5.2.2/87abd8985d9f9cae6b732fd86448fc11baabb4b2/kotest-assertions-core-jvm-5.2.2.jar!/"
       ]
     },
     {
@@ -883,9 +883,9 @@
       ]
     },
     {
-      "name": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.1.0",
+      "name": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.2.2",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.kotest/kotest-assertions-shared-jvm/5.1.0/c1c28ec2acbb5247cfcdbf4fb3accaa9fde32370/kotest-assertions-shared-jvm-5.1.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.kotest/kotest-assertions-shared-jvm/5.2.2/a815b09ba33039396c175257ed40a876f508a7a7/kotest-assertions-shared-jvm-5.2.2.jar!/"
       ]
     },
     {
@@ -907,9 +907,9 @@
       ]
     },
     {
-      "name": "Gradle: io.kotest:kotest-assertions-api-jvm:5.1.0",
+      "name": "Gradle: io.kotest:kotest-assertions-api-jvm:5.2.2",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.kotest/kotest-assertions-api-jvm/5.1.0/c4a99f7c0bc0e68a6f8afaa932103a120af22590/kotest-assertions-api-jvm-5.1.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.kotest/kotest-assertions-api-jvm/5.2.2/5e2209b9c6d648be54d7582bf486eb8fbd89c228/kotest-assertions-api-jvm-5.2.2.jar!/"
       ]
     },
     {
@@ -1015,9 +1015,9 @@
       ]
     },
     {
-      "name": "Gradle: io.kotest:kotest-common-jvm:5.1.0",
+      "name": "Gradle: io.kotest:kotest-common-jvm:5.2.2",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.kotest/kotest-common-jvm/5.1.0/1b3d769940398c49e0ada52a8270a172608a01bb/kotest-common-jvm-5.1.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.kotest/kotest-common-jvm/5.2.2/a2326b40202cab28b75c367f321f3c739228dea9/kotest-common-jvm-5.2.2.jar!/"
       ]
     },
     {

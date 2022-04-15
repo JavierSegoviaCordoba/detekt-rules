@@ -14,6 +14,8 @@
 
 ### Updated
 
+- `io.gitlab.arturbosch.detekt:detekt-test -> 1.20.0`
+- `io.gitlab.arturbosch.detekt:detekt-api -> 1.20.0`
 - `io.kotest:kotest-assertions-core -> 5.2.3`
 - `gradle -> 7.4.2`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.20`

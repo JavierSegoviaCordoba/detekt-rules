@@ -85,51 +85,51 @@
           "type": "Module"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-test:1.19.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-test:1.20.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-api:1.19.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-api:1.20.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-test-utils:1.19.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-test-utils:1.20.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.kotest:kotest-assertions-core-jvm:5.2.2",
+          "name": "Gradle: io.kotest:kotest-assertions-core-jvm:5.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.5.31",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.6.20",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-psi-utils:1.19.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-psi-utils:1.20.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit5:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit5:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.21",
           "type": "Library"
         },
         {
@@ -141,7 +141,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.2.2",
+          "name": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.3.0",
           "type": "Library"
         },
         {
@@ -157,87 +157,103 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.kotest:kotest-assertions-api-jvm:5.2.2",
+          "name": "Gradle: io.kotest:kotest-assertions-api-jvm:5.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-core:1.19.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-core:1.20.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-parser:1.19.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-utils:1.20.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.5.31",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-script-util:1.6.20",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-script-util:1.5.31",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-parser:1.20.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-script-runtime:1.5.31",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.6.20",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-metrics:1.19.0",
+          "name": "Gradle: org.junit.jupiter:junit-jupiter-api:5.8.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-tooling:1.19.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-metrics:1.20.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-txt:1.19.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-tooling:1.20.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-xml:1.19.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-txt:1.20.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-sarif:1.19.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-xml:1.20.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.yaml:snakeyaml:1.29",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-sarif:1.20.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-html:1.19.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-html:1.20.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.6.0",
+          "name": "Gradle: org.yaml:snakeyaml:1.30",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.6.10",
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.6.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.5.31",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.intellij.deps:trove4j:1.0.20181211",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-script-runtime:1.6.20",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.junit.jupiter:junit-jupiter-engine:5.6.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.6.20",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.5.31",
+          "name": "Gradle: org.jetbrains.intellij.deps:trove4j:1.0.20200330",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.5.31",
+          "name": "Gradle: net.java.dev.jna:jna:5.6.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.5.31",
+          "name": "Gradle: org.junit.jupiter:junit-jupiter-engine:5.8.2",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.6.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.6.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.6.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.junit.platform:junit-platform-commons:1.8.2",
           "type": "Library"
         },
         {
@@ -245,23 +261,23 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-html-jvm:0.7.3",
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-html-jvm:0.7.5",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.kotest:kotest-common-jvm:5.2.2",
+          "name": "Gradle: io.kotest:kotest-common-jvm:5.3.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.0",
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.1",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.junit.platform:junit-platform-engine:1.6.0",
+          "name": "Gradle: org.junit.platform:junit-platform-engine:1.8.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.5.31",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.6.20",
           "type": "Library"
         },
         {
@@ -285,13 +301,13 @@
           "path": "file://$PROJECT_DIR$/banned-import/main",
           "sourceFolders": [
             {
-              "path": "file://$PROJECT_DIR$/banned-import/main/resources",
-              "type": "Resource",
+              "path": "file://$PROJECT_DIR$/banned-import/main/kotlin",
+              "type": "Source",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/banned-import/main/kotlin",
-              "type": "Source",
+              "path": "file://$PROJECT_DIR$/banned-import/main/resources",
+              "type": "Resource",
               "packagePrefix": ""
             }
           ]
@@ -307,31 +323,31 @@
           "type": "Own sources"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-api:1.19.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-api:1.20.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.5.31",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.6.20",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-psi-utils:1.19.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-psi-utils:1.20.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.21",
           "type": "Library"
         },
         {
@@ -339,19 +355,27 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.31",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-utils:1.20.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-script-runtime:1.5.31",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.6.20",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.5.31",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-script-runtime:1.6.20",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.intellij.deps:trove4j:1.0.20181211",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.6.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.intellij.deps:trove4j:1.0.20200330",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: net.java.dev.jna:jna:5.6.0",
           "type": "Library"
         }
       ]
@@ -490,7 +514,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:binary-compatibility-validator:0.8.0",
+          "name": "Gradle: org.jetbrains.kotlinx:binary-compatibility-validator:0.9.0",
           "type": "Library"
         },
         {
@@ -502,7 +526,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.21",
           "type": "Library"
         },
         {
@@ -582,11 +606,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.6.21",
           "type": "Library"
         },
         {
@@ -626,15 +650,15 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-native-utils:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-native-utils:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-project-model:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-project-model:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-io:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-io:1.6.21",
           "type": "Library"
         },
         {
@@ -646,15 +670,15 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-metadata-jvm:0.3.0",
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-metadata-jvm:0.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.ow2.asm:asm-tree:9.0",
+          "name": "Gradle: org.ow2.asm:asm-tree:9.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.ow2.asm:asm:9.0",
+          "name": "Gradle: org.ow2.asm:asm:9.2",
           "type": "Library"
         },
         {
@@ -662,19 +686,19 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-runner:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-runner:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-klib:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-klib:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-tooling-metadata:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-tooling-metadata:1.6.21",
           "type": "Library"
         },
         {
@@ -694,23 +718,23 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-android-extensions:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-android-extensions:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.6.21",
           "type": "Library"
         },
         {
@@ -750,7 +774,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.6.21",
           "type": "Library"
         },
         {
@@ -758,7 +782,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-build-common:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-build-common:1.6.21",
           "type": "Library"
         },
         {
@@ -786,7 +810,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.6.21",
           "type": "Library"
         },
         {
@@ -798,11 +822,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.6.21",
           "type": "Library"
         },
         {
@@ -1157,7 +1181,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:binary-compatibility-validator:0.8.0",
+          "name": "Gradle: org.jetbrains.kotlinx:binary-compatibility-validator:0.9.0",
           "type": "Library"
         },
         {
@@ -1169,7 +1193,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.21",
           "type": "Library"
         },
         {
@@ -1249,11 +1273,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.6.21",
           "type": "Library"
         },
         {
@@ -1293,31 +1317,31 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-native-utils:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-native-utils:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-project-model:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-project-model:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-io:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-io:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-runner:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-runner:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-klib:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-util-klib:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-tooling-metadata:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-tooling-metadata:1.6.21",
           "type": "Library"
         },
         {
@@ -1337,35 +1361,35 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-android-extensions:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-android-extensions:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-metadata-jvm:0.3.0",
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-metadata-jvm:0.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.ow2.asm:asm-tree:9.0",
+          "name": "Gradle: org.ow2.asm:asm-tree:9.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.ow2.asm:asm:9.0",
+          "name": "Gradle: org.ow2.asm:asm:9.2",
           "type": "Library"
         },
         {
@@ -1409,7 +1433,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.6.21",
           "type": "Library"
         },
         {
@@ -1417,7 +1441,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-build-common:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-build-common:1.6.21",
           "type": "Library"
         },
         {
@@ -1445,7 +1469,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.6.21",
           "type": "Library"
         },
         {
@@ -1457,11 +1481,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.6.21",
           "type": "Library"
         },
         {

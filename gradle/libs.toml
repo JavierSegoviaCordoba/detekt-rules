@@ -1,6 +1,6 @@
 [versions]
 detekt = "1.20.0"
-kotest = "5.3.0"
+kotest = "5.3.2"
 
 [libraries]
 gitlab-arturboschDetekt-detektApi = { module = "io.gitlab.arturbosch.detekt:detekt-api", version.ref = "detekt" }

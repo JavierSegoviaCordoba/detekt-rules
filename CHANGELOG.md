@@ -14,8 +14,8 @@
 
 ### Updated
 
+- `io.kotest:kotest-assertions-core -> 5.3.2`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.10.0`
-- `io.kotest:kotest-assertions-core -> 5.3.0`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.6.21`
 - `io.gitlab.arturbosch.detekt:detekt-test -> 1.20.0`
 - `io.gitlab.arturbosch.detekt:detekt-api -> 1.20.0`

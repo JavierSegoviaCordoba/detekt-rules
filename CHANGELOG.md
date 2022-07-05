@@ -14,6 +14,10 @@
 
 ### Updated
 
+## [1.0.0-alpha.1] - 2022-07-05
+
+### Updated
+
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.7.0`
 - `org.jetbrains.kotlinx:binary-compatibility-validator -> 0.10.0`
 - `io.kotest:kotest-assertions-core -> 5.3.0`

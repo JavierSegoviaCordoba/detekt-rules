@@ -9,24 +9,12 @@
       "languageLevel": 11
     },
     {
-      "name": "detekt-rules.buildSrc",
-      "languageLevel": 11
-    },
-    {
       "name": "detekt-rules.banned-import.test",
-      "languageLevel": 11
+      "languageLevel": 8
     },
     {
       "name": "detekt-rules.banned-import.main",
-      "languageLevel": 11
-    },
-    {
-      "name": "detekt-rules.buildSrc.test",
-      "languageLevel": 11
-    },
-    {
-      "name": "detekt-rules.buildSrc.main",
-      "languageLevel": 11
+      "languageLevel": 8
     }
   ]
 }

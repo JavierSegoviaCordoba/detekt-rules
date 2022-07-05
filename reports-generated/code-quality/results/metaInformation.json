@@ -4,13 +4,6 @@
     "Code Inspection": 0
   },
   "attributes": {
-    "vcs": {
-      "sarifIdea": {
-        "repositoryUri": "https://github.com/JavierSegoviaCordoba/detekt-rules",
-        "revisionId": "da7647338b8bd1f59311f476a22eca84c55c3a6a",
-        "branch": "main"
-      }
-    },
     "deviceId": "200820300000000-0540-4f1d-5078-bf4ecf3abe81"
   }
 }

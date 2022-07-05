@@ -1,16 +1,24 @@
 plugins {
-    `kotlin-jvm`
-    `javiersc-kotlin-config`
-    `javiersc-publish`
+    alias(libs.plugins.javiersc.hubdle)
 }
 
-kotlin {
-    explicitApi()
-}
-
-dependencies {
-    implementation(libs.gitlab.arturboschDetekt.detektApi)
-    testImplementation(libs.gitlab.arturboschDetekt.detektTest)
-    testImplementation(libs.jetbrains.kotlin.kotlinTest)
-    testImplementation(libs.kotest.kotestAssertionsCore)
+hubdle {
+    config {
+        explicitApi()
+        publishing()
+    }
+    kotlin {
+        jvm {
+            main {
+                dependencies {
+                    implementation(libs.gitlab.arturboschDetekt.detektApi)
+                }
+            }
+            test {
+                dependencies {
+                    implementation(libs.gitlab.arturboschDetekt.detektTest)
+                }
+            }
+        }
+    }
 }

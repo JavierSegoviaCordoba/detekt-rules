@@ -3,7 +3,6 @@
   "category": "General",
   "type": "Kotlin annotator",
   "tags": [
-    "kotlin",
     "Sanity"
   ],
   "severity": "Critical",
@@ -15,7 +14,7 @@
       "path": "build.gradle.kts",
       "language": "kotlin",
       "line": 3,
-      "offset": 18,
+      "offset": 19,
       "length": 4,
       "code": {
         "startLine": 1,
@@ -29,13 +28,12 @@
     "module": "detekt-rules",
     "inspectionName": "KotlinAnnotator"
   },
-  "hash": "4632176129120390311"
+  "hash": "614b155473798922374db180c51b915395cd064e686aaa31e02f162125fc0518"
 },{
   "tool": "Code Inspection",
   "category": "General",
   "type": "Kotlin annotator",
   "tags": [
-    "kotlin",
     "Sanity"
   ],
   "severity": "Critical",
@@ -47,7 +45,7 @@
       "path": "build.gradle.kts",
       "language": "kotlin",
       "line": 3,
-      "offset": 23,
+      "offset": 24,
       "length": 9,
       "code": {
         "startLine": 1,
@@ -61,13 +59,12 @@
     "module": "detekt-rules",
     "inspectionName": "KotlinAnnotator"
   },
-  "hash": "-6281093376381286422"
+  "hash": "deca4e5206c258109d4c91abe56d6bd7b92d90b1b4289ff1a99c8ea366458a60"
 },{
   "tool": "Code Inspection",
   "category": "General",
   "type": "Kotlin annotator",
   "tags": [
-    "kotlin",
     "Sanity"
   ],
   "severity": "Critical",
@@ -79,7 +76,7 @@
       "path": "build.gradle.kts",
       "language": "kotlin",
       "line": 8,
-      "offset": 10,
+      "offset": 11,
       "length": 4,
       "code": {
         "startLine": 6,
@@ -93,13 +90,12 @@
     "module": "detekt-rules",
     "inspectionName": "KotlinAnnotator"
   },
-  "hash": "4670783608238365543"
+  "hash": "c7a1a853f62976e8e86639e2fc0119879c2ac1831a342179dfbdf34f76ca6dce"
 },{
   "tool": "Code Inspection",
   "category": "General",
   "type": "Kotlin annotator",
   "tags": [
-    "kotlin",
     "Sanity"
   ],
   "severity": "Critical",
@@ -111,7 +107,7 @@
       "path": "build.gradle.kts",
       "language": "kotlin",
       "line": 8,
-      "offset": 10,
+      "offset": 11,
       "length": 4,
       "code": {
         "startLine": 6,
@@ -125,13 +121,12 @@
     "module": "detekt-rules",
     "inspectionName": "KotlinAnnotator"
   },
-  "hash": "4251190123640715368"
+  "hash": "bfbb345b1ba976805a0d7ca5ff4e3c0c7d5772c6c9fd33bd0f49b2e412ffc9c8"
 },{
   "tool": "Code Inspection",
   "category": "General",
   "type": "Kotlin annotator",
   "tags": [
-    "kotlin",
     "Sanity"
   ],
   "severity": "Critical",
@@ -143,7 +138,7 @@
       "path": "banned-import/build.gradle.kts",
       "language": "kotlin",
       "line": 2,
-      "offset": 10,
+      "offset": 11,
       "length": 4,
       "code": {
         "startLine": 1,
@@ -157,13 +152,12 @@
     "module": "detekt-rules.banned-import",
     "inspectionName": "KotlinAnnotator"
   },
-  "hash": "3156818090993192430"
+  "hash": "eddc596a596d4548deb12d4010c037ee6a3129e036aada34924f1de4b6f7ec3e"
 },{
   "tool": "Code Inspection",
   "category": "General",
   "type": "Kotlin annotator",
   "tags": [
-    "kotlin",
     "Sanity"
   ],
   "severity": "Critical",
@@ -175,7 +169,7 @@
       "path": "banned-import/build.gradle.kts",
       "language": "kotlin",
       "line": 2,
-      "offset": 10,
+      "offset": 11,
       "length": 4,
       "code": {
         "startLine": 1,
@@ -189,13 +183,12 @@
     "module": "detekt-rules.banned-import",
     "inspectionName": "KotlinAnnotator"
   },
-  "hash": "3798382510038288298"
+  "hash": "75a42f16fafc3420e95eb9901736e3e3f70665431eae333e137de32d5a9bcd7d"
 },{
   "tool": "Code Inspection",
   "category": "General",
   "type": "Kotlin annotator",
   "tags": [
-    "kotlin",
     "Sanity"
   ],
   "severity": "Critical",
@@ -207,7 +200,7 @@
       "path": "banned-import/build.gradle.kts",
       "language": "kotlin",
       "line": 2,
-      "offset": 15,
+      "offset": 16,
       "length": 7,
       "code": {
         "startLine": 1,
@@ -221,17 +214,16 @@
     "module": "detekt-rules.banned-import",
     "inspectionName": "KotlinAnnotator"
   },
-  "hash": "5577108100123357979"
+  "hash": "389f1e71cdb28e89a67ed131a41dc43ce2b6dcd54812264f7afd545eeb1a9d79"
 },{
   "tool": "Code Inspection",
   "category": "General",
   "type": "Kotlin annotator",
   "tags": [
-    "kotlin",
     "Sanity"
   ],
   "severity": "Critical",
-  "comment": "Unresolved reference. None of the following candidates is applicable because of receiver type mismatch: \npublic fun Project.plugins(block: PluginDependenciesSpec.() -> Unit): Nothing defined in org.gradle.kotlin.dsl",
+  "comment": "Unresolved reference. None of the following candidates is applicable because of receiver type mismatch: public fun Project.plugins(block: PluginDependenciesSpec.() -> Unit): Nothing defined in org.gradle.kotlin.dsl",
   "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
   "sources": [
     {
@@ -239,7 +231,7 @@
       "path": "banned-import/build.gradle.kts",
       "language": "kotlin",
       "line": 2,
-      "offset": 15,
+      "offset": 16,
       "length": 7,
       "code": {
         "startLine": 1,
@@ -253,5 +245,5 @@
     "module": "detekt-rules.banned-import",
     "inspectionName": "KotlinAnnotator"
   },
-  "hash": "5364883063445851594"
+  "hash": "9f5be1358acfc55b3fc1f25489f6f074a6346c8fb57cc2eb91c6de347f25bc60"
 }]}

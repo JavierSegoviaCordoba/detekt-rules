@@ -1,6 +1,6 @@
 [versions]
 detekt = "1.20.0"
-hubdle = "0.2.0-alpha.12"
+hubdle = "0.2.0-alpha.13"
 kotlin = "1.7.0"
 
 [libraries]

@@ -34,12 +34,12 @@
       "version": "1.6.21"
     },
     {
-      "ideaName": "Gradle: com.javiersc.kotlin:kotlin-stdlib-jvm:0.1.0-alpha.7",
-      "gradleName": "com.javiersc.kotlin:kotlin-stdlib-jvm:0.1.0-alpha.7",
+      "ideaName": "Gradle: com.javiersc.kotlin:kotlin-stdlib-jvm:0.1.0-alpha.11",
+      "gradleName": "com.javiersc.kotlin:kotlin-stdlib-jvm:0.1.0-alpha.11",
       "unresolved": false,
       "groupId": "com.javiersc.kotlin",
       "artifactId": "kotlin-stdlib-jvm",
-      "version": "0.1.0-alpha.7"
+      "version": "0.1.0-alpha.11"
     },
     {
       "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-test-utils:1.20.0",

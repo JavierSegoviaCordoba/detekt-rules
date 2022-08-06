@@ -2,12 +2,12 @@
   "gradleJvm": "#JAVA_HOME",
   "libraries": [
     {
-      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-test:1.20.0",
-      "gradleName": "io.gitlab.arturbosch.detekt:detekt-test:1.20.0",
+      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-test:1.21.0",
+      "gradleName": "io.gitlab.arturbosch.detekt:detekt-test:1.21.0",
       "unresolved": false,
       "groupId": "io.gitlab.arturbosch.detekt",
       "artifactId": "detekt-test",
-      "version": "1.20.0"
+      "version": "1.21.0"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.10",
@@ -18,12 +18,12 @@
       "version": "1.7.10"
     },
     {
-      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-api:1.20.0",
-      "gradleName": "io.gitlab.arturbosch.detekt:detekt-api:1.20.0",
+      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-api:1.21.0",
+      "gradleName": "io.gitlab.arturbosch.detekt:detekt-api:1.21.0",
       "unresolved": false,
       "groupId": "io.gitlab.arturbosch.detekt",
       "artifactId": "detekt-api",
-      "version": "1.20.0"
+      "version": "1.21.0"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-test:1.6.21",
@@ -42,12 +42,12 @@
       "version": "0.1.0-alpha.11"
     },
     {
-      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-test-utils:1.20.0",
-      "gradleName": "io.gitlab.arturbosch.detekt:detekt-test-utils:1.20.0",
+      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-test-utils:1.21.0",
+      "gradleName": "io.gitlab.arturbosch.detekt:detekt-test-utils:1.21.0",
       "unresolved": false,
       "groupId": "io.gitlab.arturbosch.detekt",
       "artifactId": "detekt-test-utils",
-      "version": "1.20.0"
+      "version": "1.21.0"
     },
     {
       "ideaName": "Gradle: io.kotest:kotest-assertions-core-jvm:5.3.2",
@@ -74,20 +74,20 @@
       "version": "1.7.10"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.6.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-compiler-embeddable:1.6.20",
-      "unresolved": false,
-      "groupId": "org.jetbrains.kotlin",
-      "artifactId": "kotlin-compiler-embeddable",
-      "version": "1.6.20"
-    },
-    {
-      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-psi-utils:1.20.0",
-      "gradleName": "io.gitlab.arturbosch.detekt:detekt-psi-utils:1.20.0",
+      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-psi-utils:1.21.0",
+      "gradleName": "io.gitlab.arturbosch.detekt:detekt-psi-utils:1.21.0",
       "unresolved": false,
       "groupId": "io.gitlab.arturbosch.detekt",
       "artifactId": "detekt-psi-utils",
-      "version": "1.20.0"
+      "version": "1.21.0"
+    },
+    {
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.6.21",
+      "gradleName": "org.jetbrains.kotlin:kotlin-compiler-embeddable:1.6.21",
+      "unresolved": false,
+      "groupId": "org.jetbrains.kotlin",
+      "artifactId": "kotlin-compiler-embeddable",
+      "version": "1.6.21"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-test-junit5:1.6.21",
@@ -106,6 +106,14 @@
       "version": "1.7.10"
     },
     {
+      "ideaName": "Gradle: org.junit.jupiter:junit-jupiter-api:5.8.2",
+      "gradleName": "org.junit.jupiter:junit-jupiter-api:5.8.2",
+      "unresolved": false,
+      "groupId": "org.junit.jupiter",
+      "artifactId": "junit-jupiter-api",
+      "version": "5.8.2"
+    },
+    {
       "ideaName": "Gradle: org.jetbrains:annotations:13.0",
       "gradleName": "org.jetbrains:annotations:13.0",
       "unresolved": false,
@@ -114,36 +122,12 @@
       "version": "13.0"
     },
     {
-      "ideaName": "Gradle: org.junit.jupiter:junit-jupiter-api:5.6.0",
-      "gradleName": "org.junit.jupiter:junit-jupiter-api:5.6.0",
-      "unresolved": false,
-      "groupId": "org.junit.jupiter",
-      "artifactId": "junit-jupiter-api",
-      "version": "5.6.0"
-    },
-    {
-      "ideaName": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.3.2",
-      "gradleName": "io.kotest:kotest-assertions-shared-jvm:5.3.2",
-      "unresolved": false,
-      "groupId": "io.kotest",
-      "artifactId": "kotest-assertions-shared-jvm",
-      "version": "5.3.2"
-    },
-    {
-      "ideaName": "Gradle: org.junit.platform:junit-platform-commons:1.6.0",
-      "gradleName": "org.junit.platform:junit-platform-commons:1.6.0",
+      "ideaName": "Gradle: org.junit.platform:junit-platform-commons:1.8.2",
+      "gradleName": "org.junit.platform:junit-platform-commons:1.8.2",
       "unresolved": false,
       "groupId": "org.junit.platform",
       "artifactId": "junit-platform-commons",
-      "version": "1.6.0"
-    },
-    {
-      "ideaName": "Gradle: org.apiguardian:apiguardian-api:1.1.0",
-      "gradleName": "org.apiguardian:apiguardian-api:1.1.0",
-      "unresolved": false,
-      "groupId": "org.apiguardian",
-      "artifactId": "apiguardian-api",
-      "version": "1.1.0"
+      "version": "1.8.2"
     },
     {
       "ideaName": "Gradle: org.opentest4j:opentest4j:1.2.0",
@@ -154,6 +138,22 @@
       "version": "1.2.0"
     },
     {
+      "ideaName": "Gradle: org.apiguardian:apiguardian-api:1.1.2",
+      "gradleName": "org.apiguardian:apiguardian-api:1.1.2",
+      "unresolved": false,
+      "groupId": "org.apiguardian",
+      "artifactId": "apiguardian-api",
+      "version": "1.1.2"
+    },
+    {
+      "ideaName": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.3.2",
+      "gradleName": "io.kotest:kotest-assertions-shared-jvm:5.3.2",
+      "unresolved": false,
+      "groupId": "io.kotest",
+      "artifactId": "kotest-assertions-shared-jvm",
+      "version": "5.3.2"
+    },
+    {
       "ideaName": "Gradle: io.kotest:kotest-assertions-api-jvm:5.3.2",
       "gradleName": "io.kotest:kotest-assertions-api-jvm:5.3.2",
       "unresolved": false,
@@ -162,100 +162,84 @@
       "version": "5.3.2"
     },
     {
-      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-core:1.20.0",
-      "gradleName": "io.gitlab.arturbosch.detekt:detekt-core:1.20.0",
+      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-core:1.21.0",
+      "gradleName": "io.gitlab.arturbosch.detekt:detekt-core:1.21.0",
       "unresolved": false,
       "groupId": "io.gitlab.arturbosch.detekt",
       "artifactId": "detekt-core",
-      "version": "1.20.0"
+      "version": "1.21.0"
     },
     {
-      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-utils:1.20.0",
-      "gradleName": "io.gitlab.arturbosch.detekt:detekt-utils:1.20.0",
+      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-utils:1.21.0",
+      "gradleName": "io.gitlab.arturbosch.detekt:detekt-utils:1.21.0",
       "unresolved": false,
       "groupId": "io.gitlab.arturbosch.detekt",
       "artifactId": "detekt-utils",
-      "version": "1.20.0"
+      "version": "1.21.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-script-util:1.6.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-script-util:1.6.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-script-util:1.6.21",
+      "gradleName": "org.jetbrains.kotlin:kotlin-script-util:1.6.21",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-script-util",
-      "version": "1.6.20"
+      "version": "1.6.21"
     },
     {
-      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-parser:1.20.0",
-      "gradleName": "io.gitlab.arturbosch.detekt:detekt-parser:1.20.0",
+      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-parser:1.21.0",
+      "gradleName": "io.gitlab.arturbosch.detekt:detekt-parser:1.21.0",
       "unresolved": false,
       "groupId": "io.gitlab.arturbosch.detekt",
       "artifactId": "detekt-parser",
-      "version": "1.20.0"
+      "version": "1.21.0"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.6.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.6.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.6.21",
+      "gradleName": "org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.6.21",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-scripting-compiler-embeddable",
-      "version": "1.6.20"
+      "version": "1.6.21"
     },
     {
-      "ideaName": "Gradle: org.junit.jupiter:junit-jupiter-api:5.8.2",
-      "gradleName": "org.junit.jupiter:junit-jupiter-api:5.8.2",
+      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-md:1.21.0",
+      "gradleName": "io.gitlab.arturbosch.detekt:detekt-report-md:1.21.0",
       "unresolved": false,
-      "groupId": "org.junit.jupiter",
-      "artifactId": "junit-jupiter-api",
-      "version": "5.8.2"
+      "groupId": "io.gitlab.arturbosch.detekt",
+      "artifactId": "detekt-report-md",
+      "version": "1.21.0"
     },
     {
-      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-metrics:1.20.0",
-      "gradleName": "io.gitlab.arturbosch.detekt:detekt-metrics:1.20.0",
+      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-metrics:1.21.0",
+      "gradleName": "io.gitlab.arturbosch.detekt:detekt-metrics:1.21.0",
       "unresolved": false,
       "groupId": "io.gitlab.arturbosch.detekt",
       "artifactId": "detekt-metrics",
-      "version": "1.20.0"
+      "version": "1.21.0"
     },
     {
-      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-tooling:1.20.0",
-      "gradleName": "io.gitlab.arturbosch.detekt:detekt-tooling:1.20.0",
+      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-tooling:1.21.0",
+      "gradleName": "io.gitlab.arturbosch.detekt:detekt-tooling:1.21.0",
       "unresolved": false,
       "groupId": "io.gitlab.arturbosch.detekt",
       "artifactId": "detekt-tooling",
-      "version": "1.20.0"
+      "version": "1.21.0"
     },
     {
-      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-txt:1.20.0",
-      "gradleName": "io.gitlab.arturbosch.detekt:detekt-report-txt:1.20.0",
-      "unresolved": false,
-      "groupId": "io.gitlab.arturbosch.detekt",
-      "artifactId": "detekt-report-txt",
-      "version": "1.20.0"
-    },
-    {
-      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-xml:1.20.0",
-      "gradleName": "io.gitlab.arturbosch.detekt:detekt-report-xml:1.20.0",
-      "unresolved": false,
-      "groupId": "io.gitlab.arturbosch.detekt",
-      "artifactId": "detekt-report-xml",
-      "version": "1.20.0"
-    },
-    {
-      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-sarif:1.20.0",
-      "gradleName": "io.gitlab.arturbosch.detekt:detekt-report-sarif:1.20.0",
+      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-sarif:1.21.0",
+      "gradleName": "io.gitlab.arturbosch.detekt:detekt-report-sarif:1.21.0",
       "unresolved": false,
       "groupId": "io.gitlab.arturbosch.detekt",
       "artifactId": "detekt-report-sarif",
-      "version": "1.20.0"
+      "version": "1.21.0"
     },
     {
-      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-html:1.20.0",
-      "gradleName": "io.gitlab.arturbosch.detekt:detekt-report-html:1.20.0",
+      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-html:1.21.0",
+      "gradleName": "io.gitlab.arturbosch.detekt:detekt-report-html:1.21.0",
       "unresolved": false,
       "groupId": "io.gitlab.arturbosch.detekt",
       "artifactId": "detekt-report-html",
-      "version": "1.20.0"
+      "version": "1.21.0"
     },
     {
       "ideaName": "Gradle: org.yaml:snakeyaml:1.30",
@@ -264,6 +248,22 @@
       "groupId": "org.yaml",
       "artifactId": "snakeyaml",
       "version": "1.30"
+    },
+    {
+      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-txt:1.21.0",
+      "gradleName": "io.gitlab.arturbosch.detekt:detekt-report-txt:1.21.0",
+      "unresolved": false,
+      "groupId": "io.gitlab.arturbosch.detekt",
+      "artifactId": "detekt-report-txt",
+      "version": "1.21.0"
+    },
+    {
+      "ideaName": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-xml:1.21.0",
+      "gradleName": "io.gitlab.arturbosch.detekt:detekt-report-xml:1.21.0",
+      "unresolved": false,
+      "groupId": "io.gitlab.arturbosch.detekt",
+      "artifactId": "detekt-report-xml",
+      "version": "1.21.0"
     },
     {
       "ideaName": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.6.1",
@@ -282,20 +282,20 @@
       "version": "1.6.21"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-script-runtime:1.6.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-script-runtime:1.6.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-script-runtime:1.6.21",
+      "gradleName": "org.jetbrains.kotlin:kotlin-script-runtime:1.6.21",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-script-runtime",
-      "version": "1.6.20"
+      "version": "1.6.21"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.6.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-daemon-embeddable:1.6.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.6.21",
+      "gradleName": "org.jetbrains.kotlin:kotlin-daemon-embeddable:1.6.21",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-daemon-embeddable",
-      "version": "1.6.20"
+      "version": "1.6.21"
     },
     {
       "ideaName": "Gradle: org.jetbrains.intellij.deps:trove4j:1.0.20200330",
@@ -322,36 +322,36 @@
       "version": "5.8.2"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.6.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-daemon-client:1.6.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.6.21",
+      "gradleName": "org.jetbrains.kotlin:kotlin-daemon-client:1.6.21",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-daemon-client",
-      "version": "1.6.20"
+      "version": "1.6.21"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.6.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-scripting-jvm:1.6.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.6.21",
+      "gradleName": "org.jetbrains.kotlin:kotlin-scripting-jvm:1.6.21",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-scripting-jvm",
-      "version": "1.6.20"
+      "version": "1.6.21"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.6.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.6.20",
+      "ideaName": "Gradle: io.github.davidburstrom.contester:contester-breakpoint:0.2.0",
+      "gradleName": "io.github.davidburstrom.contester:contester-breakpoint:0.2.0",
+      "unresolved": false,
+      "groupId": "io.github.davidburstrom.contester",
+      "artifactId": "contester-breakpoint",
+      "version": "0.2.0"
+    },
+    {
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.6.21",
+      "gradleName": "org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.6.21",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-scripting-compiler-impl-embeddable",
-      "version": "1.6.20"
-    },
-    {
-      "ideaName": "Gradle: org.junit.platform:junit-platform-commons:1.8.2",
-      "gradleName": "org.junit.platform:junit-platform-commons:1.8.2",
-      "unresolved": false,
-      "groupId": "org.junit.platform",
-      "artifactId": "junit-platform-commons",
-      "version": "1.8.2"
+      "version": "1.6.21"
     },
     {
       "ideaName": "Gradle: io.github.detekt.sarif4k:sarif4k:0.0.1",
@@ -394,12 +394,12 @@
       "version": "1.8.2"
     },
     {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.6.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-scripting-common:1.6.20",
+      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.6.21",
+      "gradleName": "org.jetbrains.kotlin:kotlin-scripting-common:1.6.21",
       "unresolved": false,
       "groupId": "org.jetbrains.kotlin",
       "artifactId": "kotlin-scripting-common",
-      "version": "1.6.20"
+      "version": "1.6.21"
     },
     {
       "ideaName": "Gradle: io.github.java-diff-utils:java-diff-utils:4.11",
@@ -424,14 +424,6 @@
       "groupId": "org.jetbrains.kotlinx",
       "artifactId": "kotlinx-serialization-core-jvm",
       "version": "1.1.0"
-    },
-    {
-      "ideaName": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.6.20",
-      "gradleName": "org.jetbrains.kotlin:kotlin-reflect:1.6.20",
-      "unresolved": false,
-      "groupId": "org.jetbrains.kotlin",
-      "artifactId": "kotlin-reflect",
-      "version": "1.6.20"
     }
   ]
 }

@@ -66,7 +66,7 @@
           "type": "Module"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-test:1.20.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-test:1.21.0",
           "type": "Library"
         },
         {
@@ -74,7 +74,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-api:1.20.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-api:1.21.0",
           "type": "Library"
         },
         {
@@ -86,7 +86,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-test-utils:1.20.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-test-utils:1.21.0",
           "type": "Library"
         },
         {
@@ -102,11 +102,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.6.20",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-psi-utils:1.21.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-psi-utils:1.20.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.6.21",
           "type": "Library"
         },
         {
@@ -118,23 +118,15 @@
           "type": "Library"
         },
         {
+          "name": "Gradle: org.junit.jupiter:junit-jupiter-api:5.8.2",
+          "type": "Library"
+        },
+        {
           "name": "Gradle: org.jetbrains:annotations:13.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.junit.jupiter:junit-jupiter-api:5.6.0",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.3.2",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.junit.platform:junit-platform-commons:1.6.0",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.apiguardian:apiguardian-api:1.1.0",
+          "name": "Gradle: org.junit.platform:junit-platform-commons:1.8.2",
           "type": "Library"
         },
         {
@@ -142,59 +134,67 @@
           "type": "Library"
         },
         {
+          "name": "Gradle: org.apiguardian:apiguardian-api:1.1.2",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.3.2",
+          "type": "Library"
+        },
+        {
           "name": "Gradle: io.kotest:kotest-assertions-api-jvm:5.3.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-core:1.20.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-core:1.21.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-utils:1.20.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-utils:1.21.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-script-util:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-script-util:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-parser:1.20.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-parser:1.21.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.junit.jupiter:junit-jupiter-api:5.8.2",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-md:1.21.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-metrics:1.20.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-metrics:1.21.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-tooling:1.20.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-tooling:1.21.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-txt:1.20.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-sarif:1.21.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-xml:1.20.0",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-sarif:1.20.0",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-html:1.20.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-html:1.21.0",
           "type": "Library"
         },
         {
           "name": "Gradle: org.yaml:snakeyaml:1.30",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-txt:1.21.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-xml:1.21.0",
           "type": "Library"
         },
         {
@@ -206,11 +206,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-script-runtime:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-script-runtime:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.6.21",
           "type": "Library"
         },
         {
@@ -226,19 +226,19 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.6.20",
+          "name": "Gradle: io.github.davidburstrom.contester:contester-breakpoint:0.2.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.junit.platform:junit-platform-commons:1.8.2",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.6.21",
           "type": "Library"
         },
         {
@@ -262,7 +262,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.6.21",
           "type": "Library"
         },
         {
@@ -286,13 +286,13 @@
           "path": "file://$PROJECT_DIR$/banned-import/main",
           "sourceFolders": [
             {
-              "path": "file://$PROJECT_DIR$/banned-import/main/resources",
-              "type": "Resource",
+              "path": "file://$PROJECT_DIR$/banned-import/main/kotlin",
+              "type": "Source",
               "packagePrefix": ""
             },
             {
-              "path": "file://$PROJECT_DIR$/banned-import/main/kotlin",
-              "type": "Source",
+              "path": "file://$PROJECT_DIR$/banned-import/main/resources",
+              "type": "Resource",
               "packagePrefix": ""
             }
           ]
@@ -312,7 +312,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-api:1.20.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-api:1.21.0",
           "type": "Library"
         },
         {
@@ -328,11 +328,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.6.20",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-psi-utils:1.21.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-psi-utils:1.20.0",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.6.21",
           "type": "Library"
         },
         {
@@ -344,19 +344,19 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-utils:1.20.0",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-utils:1.21.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-script-runtime:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-script-runtime:1.6.21",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.6.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.6.21",
           "type": "Library"
         },
         {

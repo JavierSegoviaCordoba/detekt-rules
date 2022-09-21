@@ -78,7 +78,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.6.21",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.7.10",
           "type": "Library"
         },
         {
@@ -90,7 +90,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.kotest:kotest-assertions-core-jvm:5.3.2",
+          "name": "Gradle: io.kotest:kotest-assertions-core-jvm:5.4.2",
           "type": "Library"
         },
         {
@@ -110,7 +110,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit5:1.6.21",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit5:1.7.10",
           "type": "Library"
         },
         {
@@ -138,11 +138,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.3.2",
+          "name": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: io.kotest:kotest-assertions-api-jvm:5.3.2",
+          "name": "Gradle: io.kotest:kotest-assertions-api-jvm:5.4.2",
           "type": "Library"
         },
         {
@@ -198,7 +198,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.6.1",
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.6.4",
           "type": "Library"
         },
         {
@@ -250,11 +250,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.kotest:kotest-common-jvm:5.3.2",
+          "name": "Gradle: io.kotest:kotest-common-jvm:5.4.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.1",
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4",
           "type": "Library"
         },
         {
@@ -266,7 +266,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.github.java-diff-utils:java-diff-utils:4.11",
+          "name": "Gradle: io.github.java-diff-utils:java-diff-utils:4.12",
           "type": "Library"
         },
         {

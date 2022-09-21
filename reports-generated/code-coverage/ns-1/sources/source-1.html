@@ -7,9 +7,10 @@
   <title>Coverage Report > BannedImport</title>
   <style type="text/css">
     @import "../../css/coverage.css";
-    @import "../../css/highlight-idea.css";
+    @import "../../css/idea.min.css";
   </style>
-  <script type="text/javascript" src="../../js/highlight.pack.js"></script>
+  <script type="text/javascript" src="../../js/highlight.min.js"></script>
+  <script type="text/javascript" src="../../js/highlightjs-line-numbers.min.js"></script>
 </head>
 
 <body>
@@ -97,48 +98,48 @@ Current scope:     <a href="../../index.html">all classes</a>
 
 
 <pre>
-<div class="sourceCode" id="sourceCode"><b class="fc"><i class="no-highlight">1</i>&nbsp;package com.javiersc.detekt.rules.banned.import</b>
-<i class="no-highlight">2</i>&nbsp;
-<i class="no-highlight">3</i>&nbsp;import io.gitlab.arturbosch.detekt.api.CodeSmell
-<i class="no-highlight">4</i>&nbsp;import io.gitlab.arturbosch.detekt.api.Config
-<i class="no-highlight">5</i>&nbsp;import io.gitlab.arturbosch.detekt.api.Debt
-<i class="no-highlight">6</i>&nbsp;import io.gitlab.arturbosch.detekt.api.Entity
-<i class="no-highlight">7</i>&nbsp;import io.gitlab.arturbosch.detekt.api.Issue
-<i class="no-highlight">8</i>&nbsp;import io.gitlab.arturbosch.detekt.api.Rule
-<i class="no-highlight">9</i>&nbsp;import io.gitlab.arturbosch.detekt.api.Severity
-<i class="no-highlight">10</i>&nbsp;import io.gitlab.arturbosch.detekt.api.config
-<i class="no-highlight">11</i>&nbsp;import io.gitlab.arturbosch.detekt.api.internal.Configuration
-<i class="no-highlight">12</i>&nbsp;import org.jetbrains.kotlin.psi.KtImportDirective
-<i class="no-highlight">13</i>&nbsp;
-<b class="fc"><i class="no-highlight">14</i>&nbsp;public class BannedImport(config: Config = Config.empty) : Rule(config) {</b>
-<i class="no-highlight">15</i>&nbsp;
-<b class="fc"><i class="no-highlight">16</i>&nbsp;    public override val issue: Issue =</b>
-<b class="fc"><i class="no-highlight">17</i>&nbsp;        Issue(</b>
-<b class="fc"><i class="no-highlight">18</i>&nbsp;            javaClass.simpleName,</b>
-<b class="fc"><i class="no-highlight">19</i>&nbsp;            Severity.Defect,</b>
-<b class="fc"><i class="no-highlight">20</i>&nbsp;            &quot;Banned imports should be replaced with different imports.&quot;,</b>
-<b class="fc"><i class="no-highlight">21</i>&nbsp;            Debt.FIVE_MINS</b>
-<i class="no-highlight">22</i>&nbsp;        )
-<i class="no-highlight">23</i>&nbsp;
-<i class="no-highlight">24</i>&nbsp;    @Configuration(&quot;Define a list of package names that must not be allowed to be imported.&quot;)
-<b class="fc"><i class="no-highlight">25</i>&nbsp;    private val bannedImports: List&lt;String&gt; by config(defaultValue = emptyList())</b>
-<i class="no-highlight">26</i>&nbsp;
-<i class="no-highlight">27</i>&nbsp;    override fun visitImportDirective(importDirective: KtImportDirective) {
-<b class="fc"><i class="no-highlight">28</i>&nbsp;        super.visitImportDirective(importDirective)</b>
-<i class="no-highlight">29</i>&nbsp;
-<b class="pc"><i class="no-highlight">30</i>&nbsp;        val import: String? = importDirective.importPath?.pathStr</b>
-<b class="pc"><i class="no-highlight">31</i>&nbsp;        if (bannedImports.any { import?.contains(it, ignoreCase = true) == true }) {</b>
-<b class="fc"><i class="no-highlight">32</i>&nbsp;            report(</b>
-<b class="fc"><i class="no-highlight">33</i>&nbsp;                CodeSmell(</b>
-<b class="fc"><i class="no-highlight">34</i>&nbsp;                    issue,</b>
-<b class="fc"><i class="no-highlight">35</i>&nbsp;                    Entity.from(importDirective),</b>
-<b class="fc"><i class="no-highlight">36</i>&nbsp;                    &quot;The $import is banned. Replace it with another import.&quot;</b>
-<i class="no-highlight">37</i>&nbsp;                )
-<i class="no-highlight">38</i>&nbsp;            )
-<i class="no-highlight">39</i>&nbsp;        }
-<i class="no-highlight">40</i>&nbsp;    }
-<i class="no-highlight">41</i>&nbsp;}
-</div>
+<code class="sourceCode" id="sourceCode"><b class="fc">&nbsp;package com.javiersc.detekt.rules.banned.import</b>
+&nbsp;
+&nbsp;import io.gitlab.arturbosch.detekt.api.CodeSmell
+&nbsp;import io.gitlab.arturbosch.detekt.api.Config
+&nbsp;import io.gitlab.arturbosch.detekt.api.Debt
+&nbsp;import io.gitlab.arturbosch.detekt.api.Entity
+&nbsp;import io.gitlab.arturbosch.detekt.api.Issue
+&nbsp;import io.gitlab.arturbosch.detekt.api.Rule
+&nbsp;import io.gitlab.arturbosch.detekt.api.Severity
+&nbsp;import io.gitlab.arturbosch.detekt.api.config
+&nbsp;import io.gitlab.arturbosch.detekt.api.internal.Configuration
+&nbsp;import org.jetbrains.kotlin.psi.KtImportDirective
+&nbsp;
+<b class="fc">&nbsp;public class BannedImport(config: Config = Config.empty) : Rule(config) {</b>
+&nbsp;
+<b class="fc">&nbsp;    public override val issue: Issue =</b>
+<b class="fc">&nbsp;        Issue(</b>
+<b class="fc">&nbsp;            javaClass.simpleName,</b>
+<b class="fc">&nbsp;            Severity.Defect,</b>
+<b class="fc">&nbsp;            &quot;Banned imports should be replaced with different imports.&quot;,</b>
+<b class="fc">&nbsp;            Debt.FIVE_MINS</b>
+&nbsp;        )
+&nbsp;
+&nbsp;    @Configuration(&quot;Define a list of package names that must not be allowed to be imported.&quot;)
+<b class="fc">&nbsp;    private val bannedImports: List&lt;String&gt; by config(defaultValue = emptyList())</b>
+&nbsp;
+&nbsp;    override fun visitImportDirective(importDirective: KtImportDirective) {
+<b class="fc">&nbsp;        super.visitImportDirective(importDirective)</b>
+&nbsp;
+<b class="pc">&nbsp;        val import: String? = importDirective.importPath?.pathStr</b>
+<b class="pc">&nbsp;        if (bannedImports.any { import?.contains(it, ignoreCase = true) == true }) {</b>
+<b class="fc">&nbsp;            report(</b>
+<b class="fc">&nbsp;                CodeSmell(</b>
+<b class="fc">&nbsp;                    issue,</b>
+<b class="fc">&nbsp;                    Entity.from(importDirective),</b>
+<b class="fc">&nbsp;                    &quot;The $import is banned. Replace it with another import.&quot;</b>
+&nbsp;                )
+&nbsp;            )
+&nbsp;        }
+&nbsp;    }
+&nbsp;}
+</code>
 </pre>
 </div>
 
@@ -153,18 +154,15 @@ Current scope:     <a href="../../index.html">all classes</a>
     @*/
 
     if (!msie || msie && msie9) {
-        var codeBlock = document.getElementById('sourceCode');
-
-        if (codeBlock) {
-            hljs.highlightBlock(codeBlock);
-        }
+      hljs.highlightAll()
+      hljs.initLineNumbersOnLoad();
     }
 })();
 </script>
 
 <div class="footer">
     
-    <div style="float:right;">generated on 2022-08-06 01:26</div>
+    <div style="float:right;">generated on 2022-09-21 10:28</div>
 </div>
 </body>
 </html>

@@ -36,4 +36,4 @@
 
 ## Findings (0)
 
-generated with [detekt version 1.21.0](https://detekt.dev/) on 2022-08-06 01:26:21 UTC
+generated with [detekt version 1.21.0](https://detekt.dev/) on 2022-09-21 10:28:33 UTC

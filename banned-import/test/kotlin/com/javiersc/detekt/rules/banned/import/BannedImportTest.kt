@@ -19,7 +19,8 @@ class BannedImportTest {
                 |
                 |@Composable
                 |fun Button() { }
-            """.trimMargin()
+            """
+                .trimMargin()
         val bannedImports =
             listOf(
                 "androidx.compose.material.Button",

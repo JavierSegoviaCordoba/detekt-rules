@@ -7,12 +7,12 @@
     "vcs": {
       "sarifIdea": {
         "repositoryUri": "https://github.com/JavierSegoviaCordoba/detekt-rules",
-        "revisionId": "64952ffc1d6a40db1f232bde0cca67e8a816e41d",
+        "revisionId": "b3973a147b273e203523ed2abb8488054933348b",
         "branch": "main"
       }
     },
     "deviceId": "200820300000000-0540-4f1d-5078-bf4ecf3abe81",
-    "jobUrl": "https://github.com/JavierSegoviaCordoba/detekt-rules/actions/runs/3097052186",
+    "jobUrl": "https://github.com/JavierSegoviaCordoba/detekt-rules/actions/runs/3130426629",
     "repoUrl": "https://github.com/JavierSegoviaCordoba/detekt-rules"
   }
 }

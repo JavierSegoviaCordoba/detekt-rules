@@ -6,68 +6,6 @@
     "Sanity"
   ],
   "severity": "Critical",
-  "comment": "Cannot access class 'org.gradle.accessors.dm.LibrariesForLibs'. Check your module classpath for missing or conflicting dependencies",
-  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
-  "sources": [
-    {
-      "type": "file",
-      "path": "build.gradle.kts",
-      "language": "kotlin",
-      "line": 3,
-      "offset": 19,
-      "length": 4,
-      "code": {
-        "startLine": 1,
-        "length": 4,
-        "offset": 51,
-        "surroundingCode": "buildscript {\n    dependencies {\n        classpath(libs.jetbrains.kotlin.kotlinGradlePlugin)\n    }\n}"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "detekt-rules",
-    "inspectionName": "KotlinAnnotator"
-  },
-  "hash": "614b155473798922374db180c51b915395cd064e686aaa31e02f162125fc0518"
-},{
-  "tool": "Code Inspection",
-  "category": "General",
-  "type": "Kotlin annotator",
-  "tags": [
-    "Sanity"
-  ],
-  "severity": "Critical",
-  "comment": "Unresolved reference: jetbrains",
-  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
-  "sources": [
-    {
-      "type": "file",
-      "path": "build.gradle.kts",
-      "language": "kotlin",
-      "line": 3,
-      "offset": 24,
-      "length": 9,
-      "code": {
-        "startLine": 1,
-        "length": 9,
-        "offset": 56,
-        "surroundingCode": "buildscript {\n    dependencies {\n        classpath(libs.jetbrains.kotlin.kotlinGradlePlugin)\n    }\n}"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "detekt-rules",
-    "inspectionName": "KotlinAnnotator"
-  },
-  "hash": "deca4e5206c258109d4c91abe56d6bd7b92d90b1b4289ff1a99c8ea366458a60"
-},{
-  "tool": "Code Inspection",
-  "category": "General",
-  "type": "Kotlin annotator",
-  "tags": [
-    "Sanity"
-  ],
-  "severity": "Critical",
   "comment": "'val Project.libs: LibrariesForLibs' can't be called in this context by implicit receiver. Use the explicit one if necessary",
   "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
   "sources": [
@@ -75,14 +13,14 @@
       "type": "file",
       "path": "build.gradle.kts",
       "language": "kotlin",
-      "line": 8,
+      "line": 2,
       "offset": 11,
       "length": 4,
       "code": {
-        "startLine": 6,
+        "startLine": 1,
         "length": 4,
-        "offset": 21,
-        "surroundingCode": "\nplugins {\n    alias(libs.plugins.javiersc.hubdle)\n}\n"
+        "offset": 20,
+        "surroundingCode": "plugins {\n    alias(libs.plugins.javiersc.hubdle)\n}\n"
       }
     }
   ],
@@ -90,7 +28,7 @@
     "module": "detekt-rules",
     "inspectionName": "KotlinAnnotator"
   },
-  "hash": "c7a1a853f62976e8e86639e2fc0119879c2ac1831a342179dfbdf34f76ca6dce"
+  "hash": "b222bf11fce63fe220d1973d2459fd26d013f13c9e19765a30b9e7c316f1063f"
 },{
   "tool": "Code Inspection",
   "category": "General",
@@ -106,14 +44,14 @@
       "type": "file",
       "path": "build.gradle.kts",
       "language": "kotlin",
-      "line": 8,
+      "line": 2,
       "offset": 11,
       "length": 4,
       "code": {
-        "startLine": 6,
+        "startLine": 1,
         "length": 4,
-        "offset": 21,
-        "surroundingCode": "\nplugins {\n    alias(libs.plugins.javiersc.hubdle)\n}\n"
+        "offset": 20,
+        "surroundingCode": "plugins {\n    alias(libs.plugins.javiersc.hubdle)\n}\n"
       }
     }
   ],
@@ -121,7 +59,69 @@
     "module": "detekt-rules",
     "inspectionName": "KotlinAnnotator"
   },
-  "hash": "bfbb345b1ba976805a0d7ca5ff4e3c0c7d5772c6c9fd33bd0f49b2e412ffc9c8"
+  "hash": "9054a1cef87c6af3d6210c43c956359685357404f1e9835957dd40d200805533"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Kotlin annotator",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "Function invocation 'plugins(...)' expected",
+  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "build.gradle.kts",
+      "language": "kotlin",
+      "line": 2,
+      "offset": 16,
+      "length": 7,
+      "code": {
+        "startLine": 1,
+        "length": 7,
+        "offset": 25,
+        "surroundingCode": "plugins {\n    alias(libs.plugins.javiersc.hubdle)\n}\n"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "detekt-rules",
+    "inspectionName": "KotlinAnnotator"
+  },
+  "hash": "eec37a653bfd6188572ba2e2192c8657d04e4624073b73ebef98b09c4b1c0176"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Kotlin annotator",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "Unresolved reference. None of the following candidates is applicable because of receiver type mismatch: public fun Project.plugins(block: PluginDependenciesSpec.() -> Unit): Nothing defined in org.gradle.kotlin.dsl",
+  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "build.gradle.kts",
+      "language": "kotlin",
+      "line": 2,
+      "offset": 16,
+      "length": 7,
+      "code": {
+        "startLine": 1,
+        "length": 7,
+        "offset": 25,
+        "surroundingCode": "plugins {\n    alias(libs.plugins.javiersc.hubdle)\n}\n"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "detekt-rules",
+    "inspectionName": "KotlinAnnotator"
+  },
+  "hash": "a4be68644b2370561ac10956d9989f8a1d6f0bf7da75b8146435dfc504130ce3"
 },{
   "tool": "Code Inspection",
   "category": "General",

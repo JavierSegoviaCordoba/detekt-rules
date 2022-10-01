@@ -1,12 +1,10 @@
 [versions]
 detekt = "1.21.0"
-hubdle = "0.2.0-alpha.37"
-kotlin = "1.7.10"
+hubdle = "0.2.0-alpha.42"
 
 [libraries]
 gitlab-arturboschDetekt-detektApi = { module = "io.gitlab.arturbosch.detekt:detekt-api", version.ref = "detekt" }
 gitlab-arturboschDetekt-detektTest = { module = "io.gitlab.arturbosch.detekt:detekt-test", version.ref = "detekt" }
-jetbrains-kotlin-kotlinGradlePlugin = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin", version.ref = "kotlin" }
 
 [plugins]
 javiersc-hubdle = { id = "com.javiersc.hubdle", version.ref = "hubdle" }

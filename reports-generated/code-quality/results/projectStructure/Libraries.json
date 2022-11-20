@@ -7,15 +7,15 @@
       ]
     },
     {
-      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-api:1.21.0",
+      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-api:1.22.0",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-api/1.21.0/f745287cbce8b95f276b564e28a5568bd8572127/detekt-api-1.21.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-api/1.22.0/e8a352c57c23e2e6a96544c4ac862f141efceee7/detekt-api-1.22.0.jar!/"
       ]
     },
     {
-      "name": "Gradle: com.javiersc.kotlin:kotlin-stdlib-jvm:0.1.0-alpha.11",
+      "name": "Gradle: com.javiersc.kotlin:kotlin-stdlib-jvm:0.1.0-alpha.12",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/com.javiersc.kotlin/kotlin-stdlib-jvm/0.1.0-alpha.11/1912fdb6b7874fa50a5893702b8d18b354a09a62/kotlin-stdlib-jvm-0.1.0-alpha.11.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/com.javiersc.kotlin/kotlin-stdlib-jvm/0.1.0-alpha.12/f93a78fce811a650444ae373d760afeccee997c1/kotlin-stdlib-jvm-0.1.0-alpha.12.jar!/"
       ]
     },
     {
@@ -31,15 +31,15 @@
       ]
     },
     {
-      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-psi-utils:1.21.0",
+      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-psi-utils:1.22.0",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-psi-utils/1.21.0/f550cdbd3f81eb4209361815d4ac12122a49847f/detekt-psi-utils-1.21.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-psi-utils/1.22.0/86046b29fdb69bbd2ec79d131e8f8ebd742b9da6/detekt-psi-utils-1.22.0.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.6.21",
+      "name": "Gradle: org.jetbrains.kotlin:kotlin-compiler-embeddable:1.7.21",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.6.21/97bdd5a752ce73b58ef16c17bc7f0ea2faff7a2e/kotlin-compiler-embeddable-1.6.21.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.7.21/a36688d6a38ea94ac3fce84e198ea2cb6c6a8e88/kotlin-compiler-embeddable-1.7.21.jar!/"
       ]
     },
     {
@@ -56,27 +56,40 @@
       ]
     },
     {
-      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-utils:1.21.0",
+      "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.7.21",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-utils/1.21.0/af94bad6c9ec1dd730cb6dd2235c631405f71f2d/detekt-utils-1.21.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.7.21/1a2eaf898a0dda83037034b10a42053cf8a7caf8/kotlin-stdlib-1.7.21.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.6.21",
+      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-utils:1.22.0",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.6.21/5dc3574d9b7bebfcb4ec6b10ada4aaa9e140bd0b/kotlin-reflect-1.6.21.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-utils/1.22.0/77e4d72a7c1505c6f45d67001eb8cae0665990cc/detekt-utils-1.22.0.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.kotlin:kotlin-script-runtime:1.6.21",
+      "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.21",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.6.21/99c6675100da5d6d5b1c5a1032f27f28008d101b/kotlin-script-runtime-1.6.21.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.7.21/cb02257de8e13e8498f8e2f69f742f2d438e794d/kotlin-stdlib-common-1.7.21.jar!/"
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.7.21",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.7.21/ad6d09bc4db0eab1069112eea8ebea0be7be44f/kotlin-reflect-1.7.21.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.6.21",
+      "name": "Gradle: org.jetbrains.kotlin:kotlin-script-runtime:1.7.21",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-embeddable/1.6.21/46b78cf392e1c4f10854c3cadba44abb7b82250f/kotlin-daemon-embeddable-1.6.21.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.7.21/b06d5c58297dccce2a0f69b0636804b0a73b3b9/kotlin-script-runtime-1.7.21.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-embeddable:1.7.21",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-embeddable/1.7.21/b94818f660cc50f5d39f04b6396ac38e4d3a9eb7/kotlin-daemon-embeddable-1.7.21.jar!/"
       ]
     },
     {
@@ -92,9 +105,15 @@
       ]
     },
     {
-      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-test:1.21.0",
+      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-test:1.22.0",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-test/1.21.0/b91b2efbc2b7ef206352d54f65b264301c6b86fa/detekt-test-1.21.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-test/1.22.0/8ed065de15a7792f92be2295f8c3621e86ee1e4e/detekt-test-1.22.0.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.21",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.7.21/5407c3593c58860cec5ee3f66c468396b42f4c2b/kotlin-stdlib-jdk8-1.7.21.jar!/"
       ]
     },
     {
@@ -104,15 +123,21 @@
       ]
     },
     {
-      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-test-utils:1.21.0",
+      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-test-utils:1.22.0",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-test-utils/1.21.0/d588040be0aa285d6dea398986e17693725ecb95/detekt-test-utils-1.21.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-test-utils/1.22.0/1313575e6c5324dd92691b5434cd9a17a70013b1/detekt-test-utils-1.22.0.jar!/"
       ]
     },
     {
-      "name": "Gradle: io.kotest:kotest-assertions-core-jvm:5.5.1",
+      "name": "Gradle: io.kotest:kotest-assertions-core-jvm:5.5.4",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.kotest/kotest-assertions-core-jvm/5.5.1/836c1ff4a7099eb65e98c737fd4d54ab1a2b0784/kotest-assertions-core-jvm-5.5.1.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.kotest/kotest-assertions-core-jvm/5.5.4/ab40f3267df9c8c6ce68b3ab7f708bcd4a8748a4/kotest-assertions-core-jvm-5.5.4.jar!/"
+      ]
+    },
+    {
+      "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.21",
+      "roots": [
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.7.21/a0ba09615c2213d580315e234b3febfea25b757e/kotlin-stdlib-jdk7-1.7.21.jar!/"
       ]
     },
     {
@@ -122,15 +147,15 @@
       ]
     },
     {
-      "name": "Gradle: org.junit.jupiter:junit-jupiter-api:5.8.2",
+      "name": "Gradle: org.junit.jupiter:junit-jupiter-api:5.9.1",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.8.2/4c21029217adf07e4c0d0c5e192b6bf610c94bdc/junit-jupiter-api-5.8.2.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.9.1/7bb53fbc0173e9f6a9d21d58297af94b1f2f9ce1/junit-jupiter-api-5.9.1.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.junit.platform:junit-platform-commons:1.8.2",
+      "name": "Gradle: org.junit.platform:junit-platform-commons:1.9.1",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.8.2/32c8b8617c1342376fd5af2053da6410d8866861/junit-platform-commons-1.8.2.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.9.1/3145f821b5cd10abcdc5f925baa5fffa6f1b628f/junit-platform-commons-1.9.1.jar!/"
       ]
     },
     {
@@ -146,87 +171,87 @@
       ]
     },
     {
-      "name": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.5.1",
+      "name": "Gradle: io.kotest:kotest-assertions-shared-jvm:5.5.4",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.kotest/kotest-assertions-shared-jvm/5.5.1/768d5f926f48ebd41882b9374e53abeb89729299/kotest-assertions-shared-jvm-5.5.1.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.kotest/kotest-assertions-shared-jvm/5.5.4/bb14c2e2e6ec60eb16a3ea33dd6ba4e24bef6986/kotest-assertions-shared-jvm-5.5.4.jar!/"
       ]
     },
     {
-      "name": "Gradle: io.kotest:kotest-assertions-api-jvm:5.5.1",
+      "name": "Gradle: io.kotest:kotest-assertions-api-jvm:5.5.4",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.kotest/kotest-assertions-api-jvm/5.5.1/70a7638b5e39857fbd349bd9e427fa8b570a0a1d/kotest-assertions-api-jvm-5.5.1.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.kotest/kotest-assertions-api-jvm/5.5.4/119bff97e591506fbe708ca75f6ef2cf500e0abb/kotest-assertions-api-jvm-5.5.4.jar!/"
       ]
     },
     {
-      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-core:1.21.0",
+      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-core:1.22.0",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-core/1.21.0/f01a96d9c3147ac244ef9fcb1a57920d877e057e/detekt-core-1.21.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-core/1.22.0/7e0a00218229fab8442cc089a63d5cbe0157364/detekt-core-1.22.0.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.kotlin:kotlin-script-util:1.6.21",
+      "name": "Gradle: org.jetbrains.kotlin:kotlin-script-util:1.7.21",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-util/1.6.21/74fd509eb29d263b25ef670e6dbe7fb5c7e51649/kotlin-script-util-1.6.21.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-util/1.7.21/16f2aa10eb0f8bea7d429cfaf6db72dd6ab3d59f/kotlin-script-util-1.7.21.jar!/"
       ]
     },
     {
-      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-parser:1.21.0",
+      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-parser:1.22.0",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-parser/1.21.0/49ce6ffd23dc9031f8e52f8be56decf0ada1f1be/detekt-parser-1.21.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-parser/1.22.0/b3ee2bef08b97d540b6042c00182fff9cf0f7aca/detekt-parser-1.22.0.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.6.21",
+      "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.7.21",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.6.21/5286c5c9b215a1a53cb5fde89ab981be308705b7/kotlin-scripting-compiler-embeddable-1.6.21.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.7.21/b2d906e43c0069f543273f83a160369ae809e835/kotlin-scripting-compiler-embeddable-1.7.21.jar!/"
       ]
     },
     {
-      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-md:1.21.0",
+      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-md:1.22.0",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-report-md/1.21.0/7c643b6cdf171b46a4b8512cd5b5597e767a1d59/detekt-report-md-1.21.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-report-md/1.22.0/a86bbab21e969ce1e60ca512f7a0498b301bff0d/detekt-report-md-1.22.0.jar!/"
       ]
     },
     {
-      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-metrics:1.21.0",
+      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-metrics:1.22.0",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-metrics/1.21.0/ecc9488004ad28fd163e65fc7feb849a57bf250a/detekt-metrics-1.21.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-metrics/1.22.0/159c613a86c42a4e3e628085df7e04bc5be9e715/detekt-metrics-1.22.0.jar!/"
       ]
     },
     {
-      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-tooling:1.21.0",
+      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-tooling:1.22.0",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-tooling/1.21.0/fa4700d92d0899ecb1bfb085e0f9ca14aaadb6ef/detekt-tooling-1.21.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-tooling/1.22.0/a5fe846bf24df491c78903a508ec63f8fd386e7e/detekt-tooling-1.22.0.jar!/"
       ]
     },
     {
-      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-sarif:1.21.0",
+      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-sarif:1.22.0",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-report-sarif/1.21.0/95500b8129555e2c4a95540119b0347d768de1fa/detekt-report-sarif-1.21.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-report-sarif/1.22.0/a3726a511c5f878eb46f4fa87ae9e21954297b5a/detekt-report-sarif-1.22.0.jar!/"
       ]
     },
     {
-      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-html:1.21.0",
+      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-html:1.22.0",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-report-html/1.21.0/14c0e3899690eec771658c1ff928441f0b5e7f13/detekt-report-html-1.21.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-report-html/1.22.0/fed982e90e53b5d7f65f6ae7d0436ec818553e6e/detekt-report-html-1.22.0.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.yaml:snakeyaml:1.30",
+      "name": "Gradle: org.yaml:snakeyaml:1.33",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.30/8fde7fe2586328ac3c68db92045e1c8759125000/snakeyaml-1.30.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.33/2cd0a87ff7df953f810c344bdf2fe3340b954c69/snakeyaml-1.33.jar!/"
       ]
     },
     {
-      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-txt:1.21.0",
+      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-txt:1.22.0",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-report-txt/1.21.0/ebe0176e6f8f5dc4b3709a02ecc51d7f132a4914/detekt-report-txt-1.21.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-report-txt/1.22.0/ee1f912d38009145aa1c5dfa0d8efa43e0b02b2c/detekt-report-txt-1.22.0.jar!/"
       ]
     },
     {
-      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-xml:1.21.0",
+      "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-xml:1.22.0",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-report-xml/1.21.0/e229e3b0f700495f3c94676b16812e3d15461ff0/detekt-report-xml-1.21.0.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-report-xml/1.22.0/f21d8212b542c77e18fa25ba1c087001c66c5e96/detekt-report-xml-1.22.0.jar!/"
       ]
     },
     {
@@ -236,21 +261,21 @@
       ]
     },
     {
-      "name": "Gradle: org.junit.jupiter:junit-jupiter-engine:5.8.2",
+      "name": "Gradle: org.junit.jupiter:junit-jupiter-engine:5.9.1",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.8.2/c598b4328d2f397194d11df3b1648d68d7d990e3/junit-jupiter-engine-5.8.2.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.9.1/1bf771097bde296c3ab174861954e8aafaaf2e94/junit-jupiter-engine-5.9.1.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.6.21",
+      "name": "Gradle: org.jetbrains.kotlin:kotlin-daemon-client:1.7.21",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/1.6.21/4393d4a57e6c612250bbd0857041688b5bac198/kotlin-daemon-client-1.6.21.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/1.7.21/d6429102b74e7ee434833eb88d918b2ff27ffd63/kotlin-daemon-client-1.7.21.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.6.21",
+      "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-jvm:1.7.21",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.6.21/ab52f6af29c00a8a9c89ea2b34b5f4d27960bd3f/kotlin-scripting-jvm-1.6.21.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.7.21/1f327341aebabf8de86dbc1ead1f5ef63c8774ec/kotlin-scripting-jvm-1.7.21.jar!/"
       ]
     },
     {
@@ -260,9 +285,9 @@
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.6.21",
+      "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.7.21",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-impl-embeddable/1.6.21/75bf05ec0a03994c84d7589badf2fec26f1196c1/kotlin-scripting-compiler-impl-embeddable-1.6.21.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-impl-embeddable/1.7.21/20dd4f77ca8ef96748762559af0f5193e630281f/kotlin-scripting-compiler-impl-embeddable-1.7.21.jar!/"
       ]
     },
     {
@@ -272,15 +297,15 @@
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.kotlinx:kotlinx-html-jvm:0.7.5",
+      "name": "Gradle: org.jetbrains.kotlinx:kotlinx-html-jvm:0.8.0",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-html-jvm/0.7.5/f41061b706432f84448a4f1fffa72559dae4d05a/kotlinx-html-jvm-0.7.5.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-html-jvm/0.8.0/358843421bbfad3638ea230cfcc155af1e277cfa/kotlinx-html-jvm-0.8.0.jar!/"
       ]
     },
     {
-      "name": "Gradle: io.kotest:kotest-common-jvm:5.5.1",
+      "name": "Gradle: io.kotest:kotest-common-jvm:5.5.4",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.kotest/kotest-common-jvm/5.5.1/2b89eee8f90ec7878e41d46868dff149a93c5a20/kotest-common-jvm-5.5.1.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/io.kotest/kotest-common-jvm/5.5.4/4778924a952debb650c4ed34c86c4dc582c63fcc/kotest-common-jvm-5.5.4.jar!/"
       ]
     },
     {
@@ -290,15 +315,15 @@
       ]
     },
     {
-      "name": "Gradle: org.junit.platform:junit-platform-engine:1.8.2",
+      "name": "Gradle: org.junit.platform:junit-platform-engine:1.9.1",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.8.2/b737de09f19864bd136805c84df7999a142fec29/junit-platform-engine-1.8.2.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.9.1/83591e5089d6cea5f324aa3ecca9b19d5a275803/junit-platform-engine-1.9.1.jar!/"
       ]
     },
     {
-      "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.6.21",
+      "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.7.21",
       "roots": [
-        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.6.21/2e2e17b6e20c9c44f1d76d0df4f8f0b3fcfa944f/kotlin-scripting-common-1.6.21.jar!/"
+        "jar://$PROJECT_DIR$/../cache/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.7.21/f237334a26a2215304a7c78e1bbd9510a88b3459/kotlin-scripting-common-1.7.21.jar!/"
       ]
     },
     {

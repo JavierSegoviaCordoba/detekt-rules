@@ -1,5 +1,5 @@
 [versions]
-detekt = "1.21.0"
+detekt = "1.22.0"
 hubdle = "0.2.0-alpha.44"
 
 [libraries]

@@ -70,7 +70,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.21",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.10",
           "type": "Library"
         },
         {
@@ -78,7 +78,15 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.7.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit5:1.8.10",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.8.10",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.8.10",
           "type": "Library"
         },
         {
@@ -86,7 +94,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-test-utils:1.22.0",
+          "name": "Gradle: com.javiersc.kotlin:kotlin-test-junit5-jvm:0.1.0-alpha.12",
           "type": "Library"
         },
         {
@@ -94,11 +102,15 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.21",
+          "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-test-utils:1.22.0",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.7.21",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.10",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.10",
           "type": "Library"
         },
         {
@@ -110,15 +122,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit5:1.7.20",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.21",
-          "type": "Library"
-        },
-        {
           "name": "Gradle: org.junit.jupiter:junit-jupiter-api:5.9.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.10",
           "type": "Library"
         },
         {
@@ -130,11 +138,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.opentest4j:opentest4j:1.2.0",
+          "name": "Gradle: org.apiguardian:apiguardian-api:1.1.2",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.apiguardian:apiguardian-api:1.1.2",
+          "name": "Gradle: org.opentest4j:opentest4j:1.2.0",
           "type": "Library"
         },
         {
@@ -151,6 +159,18 @@
         },
         {
           "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-utils:1.22.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.junit.jupiter:junit-jupiter-engine:5.9.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.6.4",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.7.21",
           "type": "Library"
         },
         {
@@ -178,10 +198,6 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.7.21",
-          "type": "Library"
-        },
-        {
           "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-report-sarif:1.22.0",
           "type": "Library"
         },
@@ -202,10 +218,6 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.6.4",
-          "type": "Library"
-        },
-        {
           "name": "Gradle: org.jetbrains.kotlin:kotlin-script-runtime:1.7.21",
           "type": "Library"
         },
@@ -222,7 +234,15 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.junit.jupiter:junit-jupiter-engine:5.9.1",
+          "name": "Gradle: org.junit.platform:junit-platform-engine:1.9.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.kotest:kotest-common-jvm:5.5.4",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4",
           "type": "Library"
         },
         {
@@ -250,23 +270,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: io.kotest:kotest-common-jvm:5.5.4",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.junit.platform:junit-platform-engine:1.9.1",
+          "name": "Gradle: io.github.java-diff-utils:java-diff-utils:4.12",
           "type": "Library"
         },
         {
           "name": "Gradle: org.jetbrains.kotlin:kotlin-scripting-common:1.7.21",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: io.github.java-diff-utils:java-diff-utils:4.12",
           "type": "Library"
         },
         {
@@ -308,7 +316,7 @@
           "type": "Own sources"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.10",
           "type": "Library"
         },
         {
@@ -320,11 +328,11 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.10",
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.7.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.10",
           "type": "Library"
         },
         {
@@ -336,7 +344,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.20",
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.10",
           "type": "Library"
         },
         {
@@ -344,15 +352,7 @@
           "type": "Library"
         },
         {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.7.21",
-          "type": "Library"
-        },
-        {
           "name": "Gradle: io.gitlab.arturbosch.detekt:detekt-utils:1.22.0",
-          "type": "Library"
-        },
-        {
-          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.21",
           "type": "Library"
         },
         {

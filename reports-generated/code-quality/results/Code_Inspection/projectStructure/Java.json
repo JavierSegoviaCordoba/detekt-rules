@@ -2,11 +2,11 @@
   "modules": [
     {
       "name": "detekt-rules",
-      "languageLevel": 11
+      "languageLevel": 17
     },
     {
       "name": "detekt-rules.banned-import",
-      "languageLevel": 11
+      "languageLevel": 17
     },
     {
       "name": "detekt-rules.banned-import.test",

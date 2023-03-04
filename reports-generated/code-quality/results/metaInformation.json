@@ -3,16 +3,17 @@
   "tools inspection": {
     "Code Inspection": 0
   },
+  "linter": "QDJVMC",
   "attributes": {
     "vcs": {
       "sarifIdea": {
-        "repositoryUri": "https://github.com/JavierSegoviaCordoba/detekt-rules",
-        "revisionId": "7501d803a0006b7c918ec7e837ebe0181e47739c",
+        "repositoryUri": "https://github.com/JavierSegoviaCordoba/detekt-rules.git",
+        "revisionId": "593b46ca8c50805bd623ee87a6cc1cf60fae3c29",
         "branch": "main"
       }
     },
     "deviceId": "200820300000000-0540-4f1d-5078-bf4ecf3abe81",
-    "jobUrl": "https://github.com/JavierSegoviaCordoba/detekt-rules/actions/runs/3563776638",
-    "repoUrl": "https://github.com/JavierSegoviaCordoba/detekt-rules"
+    "jobUrl": "https://github.com/JavierSegoviaCordoba/detekt-rules/actions/runs/4332939576",
+    "repoUrl": "https://github.com/JavierSegoviaCordoba/detekt-rules.git"
   }
 }

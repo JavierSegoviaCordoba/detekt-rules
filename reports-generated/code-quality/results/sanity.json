@@ -11,37 +11,6 @@
   "sources": [
     {
       "type": "file",
-      "path": "build.gradle.kts",
-      "language": "kotlin",
-      "line": 2,
-      "offset": 11,
-      "length": 4,
-      "code": {
-        "startLine": 1,
-        "length": 4,
-        "offset": 20,
-        "surroundingCode": "plugins {\n    alias(libs.plugins.javiersc.hubdle)\n}\n"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "detekt-rules",
-    "inspectionName": "KotlinAnnotator"
-  },
-  "hash": "b222bf11fce63fe220d1973d2459fd26d013f13c9e19765a30b9e7c316f1063f"
-},{
-  "tool": "Code Inspection",
-  "category": "General",
-  "type": "Kotlin annotator",
-  "tags": [
-    "Sanity"
-  ],
-  "severity": "Critical",
-  "comment": "'val Project.libs: LibrariesForLibs' can't be called in this context by implicit receiver. Use the explicit one if necessary",
-  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
-  "sources": [
-    {
-      "type": "file",
       "path": "banned-import/build.gradle.kts",
       "language": "kotlin",
       "line": 2,
@@ -60,4 +29,35 @@
     "inspectionName": "KotlinAnnotator"
   },
   "hash": "eddc596a596d4548deb12d4010c037ee6a3129e036aada34924f1de4b6f7ec3e"
+},{
+  "tool": "Code Inspection",
+  "category": "General",
+  "type": "Kotlin annotator",
+  "tags": [
+    "Sanity"
+  ],
+  "severity": "Critical",
+  "comment": "'val Project.libs: LibrariesForLibs' can't be called in this context by implicit receiver. Use the explicit one if necessary",
+  "detailsInfo": "Allows viewing the problems reported by the Kotlin annotator: compilation problems, references unresolved by the IDE, and so on.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "build.gradle.kts",
+      "language": "kotlin",
+      "line": 2,
+      "offset": 11,
+      "length": 4,
+      "code": {
+        "startLine": 1,
+        "length": 4,
+        "offset": 20,
+        "surroundingCode": "plugins {\n    alias(libs.plugins.javiersc.hubdle)\n}\n"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "detekt-rules",
+    "inspectionName": "KotlinAnnotator"
+  },
+  "hash": "b222bf11fce63fe220d1973d2459fd26d013f13c9e19765a30b9e7c316f1063f"
 }]}

@@ -14,7 +14,7 @@
 
 ### Updated
 
-- `com.javiersc.hubdle:com.javiersc.hubdle.gradle.plugin -> 0.6.7`
+- `com.javiersc.hubdle:com.javiersc.hubdle.gradle.plugin -> 0.6.8`
 - `io.gitlab.arturbosch.detekt:detekt-test -> 1.23.6`
 - `io.gitlab.arturbosch.detekt:detekt-api -> 1.23.6`
 - `gradle -> 8.7`

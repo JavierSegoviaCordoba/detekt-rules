@@ -22,10 +22,7 @@ class BannedImportTest {
             """
                 .trimMargin()
         val bannedImports =
-            listOf(
-                "androidx.compose.material.Button",
-                "androidx.compose.material.Surface",
-            )
+            listOf("androidx.compose.material.Button", "androidx.compose.material.Surface")
         val findings =
             BannedImport(TestConfig(mapOf(pair = "bannedImports" to bannedImports)))
                 .compileAndLint(code)

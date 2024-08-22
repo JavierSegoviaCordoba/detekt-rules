@@ -18,7 +18,8 @@ public class BannedImport(config: Config = Config.empty) : Rule(config) {
             javaClass.simpleName,
             Severity.Defect,
             "Banned imports should be replaced with different imports.",
-            Debt.FIVE_MINS)
+            Debt.FIVE_MINS,
+        )
 
     @Configuration("Define a list of package names that must not be allowed to be imported.")
     private val bannedImports: List<String> by config(defaultValue = emptyList())
@@ -32,7 +33,9 @@ public class BannedImport(config: Config = Config.empty) : Rule(config) {
                 CodeSmell(
                     issue,
                     Entity.from(importDirective),
-                    "The $import is banned. Replace it with another import."))
+                    "The $import is banned. Replace it with another import.",
+                )
+            )
         }
     }
 }

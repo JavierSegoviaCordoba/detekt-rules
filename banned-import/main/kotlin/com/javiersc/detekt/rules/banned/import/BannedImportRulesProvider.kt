@@ -9,10 +9,5 @@ public class BannedImportRulesProvider : RuleSetProvider {
     override val ruleSetId: String = "banned-import"
 
     override fun instance(config: Config): RuleSet =
-        RuleSet(
-            ruleSetId,
-            listOf(
-                BannedImport(config),
-            ),
-        )
+        RuleSet(ruleSetId, listOf(BannedImport(config)))
 }

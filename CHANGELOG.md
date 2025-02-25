@@ -14,9 +14,9 @@
 
 ### Updated
 
+- `gradle -> 8.13`
 - `io.gitlab.arturbosch.detekt:detekt-test -> 1.23.8`
 - `io.gitlab.arturbosch.detekt:detekt-api -> 1.23.8`
-- `gradle -> 8.12.1`
 - `com.javiersc.hubdle:com.javiersc.hubdle.gradle.plugin -> 0.7.10`
 - `org.jetbrains.kotlin:kotlin-gradle-plugin -> 1.7.10`
 

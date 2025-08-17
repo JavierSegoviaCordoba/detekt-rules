@@ -2,7 +2,7 @@ hubdle {
     config {
         analysis()
         coverage()
-        documentation {
+        documentation { //
             api()
         }
         explicitApi()
@@ -10,13 +10,16 @@ hubdle {
     }
     kotlin {
         jvm {
+            features { //
+                kotest()
+            }
             main {
-                dependencies {
+                dependencies { //
                     implementation(libs.gitlab.arturboschDetekt.detektApi)
                 }
             }
             test {
-                dependencies {
+                dependencies { //
                     implementation(libs.gitlab.arturboschDetekt.detektTest)
                 }
             }

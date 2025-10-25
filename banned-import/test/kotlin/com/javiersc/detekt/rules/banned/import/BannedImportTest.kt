@@ -11,14 +11,14 @@ class BannedImportTest {
     fun `reports banned import`() {
         val code =
             """
-                |package com.javiersc.shared.ui.designSystem
-                |
-                |import androidx.compose.material.Button
-                |import androidx.compose.material.Strings
-                |import androidx.compose.material.Surface
-                |
-                |@Composable
-                |fun Button() { }
+            |package com.javiersc.shared.ui.designSystem
+            |
+            |import androidx.compose.material.Button
+            |import androidx.compose.material.Strings
+            |import androidx.compose.material.Surface
+            |
+            |@Composable
+            |fun Button() { }
             """
                 .trimMargin()
         val bannedImports =

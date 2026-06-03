@@ -1,6 +1,6 @@
 [versions]
 detekt = "1.23.8"
-hubdle = "0.18.2"
+hubdle = "0.19.0"
 
 [libraries]
 gitlab-arturboschDetekt-detektApi = { module = "io.gitlab.arturbosch.detekt:detekt-api", version.ref = "detekt" }
